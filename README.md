@@ -1,0 +1,2 @@
+# Design-and-Verification-of-8-bit-BCD-Multiplier-using-Double-Dabble-Method-using-Verilog-HDL
+– 8-bit Multiplication of two unsigned numbers is performed using the Shift and Add method of multiplying two unsigned numbers. – Once the multiplication is completed, the output result is also Converted to its Binary-code-Decimal (BCD) format using Double Dabble Method.The output of both Binary and BCD is shown.
